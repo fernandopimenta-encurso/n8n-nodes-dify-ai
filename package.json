@@ -1,6 +1,6 @@
 {
-  "name": "n8n-nodes-dify-ai",
-  "version": "0.1.0",
+  "name": "@fernandopimenta/n8n-nodes-dify-ai",
+  "version": "0.1.1",
   "description": "n8n community node for comprehensive Dify.ai integration with chat, workflows, knowledge base, and more",
   "keywords": [
     "n8n-community-node-package",
