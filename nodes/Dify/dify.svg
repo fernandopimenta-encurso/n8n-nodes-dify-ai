@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="60" height="60" rx="12" fill="#1570EF"/>
+  <path d="M20 15C17.79 15 16 16.79 16 19V41C16 43.21 17.79 45 20 45H40C42.21 45 44 43.21 44 41V19C44 16.79 42.21 15 40 15H20ZM20 17H40C41.1 17 42 17.9 42 19V23H18V19C18 17.9 18.9 17 20 17ZM18 25H42V41C42 42.1 41.1 43 40 43H20C18.9 43 18 42.1 18 41V25Z" fill="white"/>
+  <circle cx="38" cy="20" r="1.5" fill="#1570EF"/>
+  <rect x="21" y="28" width="18" height="2" rx="1" fill="white"/>
+  <rect x="21" y="32" width="14" height="2" rx="1" fill="white"/>
+  <rect x="21" y="36" width="12" height="2" rx="1" fill="white"/>
+</svg>
